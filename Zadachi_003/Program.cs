@@ -2,11 +2,15 @@
 //Напишите программу, которая принимает на вход пятизначное число и проверяет, 
 //является ли оно палиндромом.
 
+int numberFive 
+
+
+
 //Задача 21
 //Напишите программу, которая принимает на вход координаты двух точек и находит 
 //расстояние между ними в 3D пространстве.
 
-
+/*
 double findDistans(double x1, double y1, double z1, double x2, double y2, double z2)
 {
     double xDis = x2 - x1;
@@ -35,17 +39,30 @@ Console.WriteLine(findDistans(xA, yA, zA, xB, yB, zB));
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 //Задача 23
 //Напишите программу, которая принимает на вход число (N) и выдаёт 
 //таблицу кубов чисел от 1 до N.
+
+*/
+
+double CubN(double n)
+{
+    double n = 1;
+    double n1 = Math.Pow(n,3); 
+    
+    if (n1 == n)
+    Console.WriteLine("stop");
+    else
+    {
+        Console.WriteLine();
+        n1++;   
+    }
+    return n2;
+}
+
+Console.Write("Input a number: ");
+double numA = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(CubN(numA));
+
+
+

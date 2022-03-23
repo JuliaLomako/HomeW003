@@ -1,0 +1,15 @@
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.csproj.AssemblyReference.cache
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.AssemblyInfoInputs.cache
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.AssemblyInfo.cs
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.csproj.CoreCompileInputs.cache
+/Users/julialomako/Desktop/DZ3/Zadachi_003/bin/Debug/net6.0/Zadachi_003
+/Users/julialomako/Desktop/DZ3/Zadachi_003/bin/Debug/net6.0/Zadachi_003.deps.json
+/Users/julialomako/Desktop/DZ3/Zadachi_003/bin/Debug/net6.0/Zadachi_003.runtimeconfig.json
+/Users/julialomako/Desktop/DZ3/Zadachi_003/bin/Debug/net6.0/Zadachi_003.dll
+/Users/julialomako/Desktop/DZ3/Zadachi_003/bin/Debug/net6.0/Zadachi_003.pdb
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.dll
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/refint/Zadachi_003.dll
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.pdb
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/Zadachi_003.genruntimeconfig.cache
+/Users/julialomako/Desktop/DZ3/Zadachi_003/obj/Debug/net6.0/ref/Zadachi_003.dll
